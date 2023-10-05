@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a physicist student in UFMG, one of the biggest universities in Brazil. I'm also doing a scientific initiantion program in Statistics, where I'm studying Agent-Based models applied in things such as Predator-Prey models. 
+I'm currently a physicist student in UFMG, one of the biggest universities in Brazil. I'm also doing a scientific initiantion program in Computational Statistics, where I'm studying Agent-Based models applied in Predator-Prey models. 
 - 📫 How to reach me: pfariaalbuquerque@gmail.com
 <!--
 **pedr19faria/pedr19faria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
